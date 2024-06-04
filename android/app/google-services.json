@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732101733877",
+    "project_id": "campusolx-69162",
+    "storage_bucket": "campusolx-69162.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732101733877:android:3a2fcafcb0dda7395644bc",
+        "android_client_info": {
+          "package_name": "com.olx.xyz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtdVIZ0K6mP3WiDnJm337KDiwaIY3WHI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
